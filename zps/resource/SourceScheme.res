@@ -22,7 +22,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"Dev Console UI"
+				"name"	"Verdana RU"
 			}
 		}
 		"MenuLarge"
@@ -42,8 +42,8 @@ Scheme
 		Frame.BgColor					"110 0 0 200"
 		Frame.OutOfFocusBgColor			"110 0 0 120"
 		
-		ScrollBarSlider.FgColor				"95 0 0 255"
-		ScrollBarSlider.BgColor				"95 0 0 200"
+		ScrollBarSlider.FgColor				"90 0 0 255"
+		ScrollBarSlider.BgColor				"90 0 0 200"
 		
 		Slider.NobColor				"110 0 0 255"
 		Slider.TextColor			"255 255 255 255"
@@ -51,7 +51,7 @@ Scheme
 		Menu.BgColor					"110 0 0 150"
 		
 		
-		"QuickListBGDeselected"		"90 25 25 255"
+		"QuickListBGDeselected"		"100 25 25 200"
 	 	"QuickListBGSelected"           "110 0 0 255"
 	}
 	CustomFontFiles
@@ -65,5 +65,6 @@ Scheme
 				"range"	"0x0000 0xFFFF"
 			}
 		}
+		"2"	"resource/fonts/VerdanaRU.ttf"
 	}
 }
